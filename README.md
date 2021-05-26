@@ -2,5 +2,4 @@
 
                                     ⚠️ Note: This project currently supports only windows ⚠️
 
-                                                    [Download executable file](https://www10.zippyshare.com/v/G3JlENZ1/file.html
-)
+[Download executable file](https://www10.zippyshare.com/v/G3JlENZ1/file.html)
