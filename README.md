@@ -6,4 +6,4 @@
 
 
 
-                     ![preview](https://gitlab.com/mouhibb/shutdown-scheduler-gui/-/raw/master/preview.png)
+![avatar](https://gitlab.com/mouhibb/shutdown-scheduler-gui/-/raw/master/preview.png)
