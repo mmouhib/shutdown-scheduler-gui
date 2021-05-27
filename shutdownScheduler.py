@@ -118,7 +118,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("Shutdown Scheduler", "Shutdown Scheduler"))
         self.label.setText(_translate("MainWindow", "Shutdown Scheduler"))
         self.b1.setText(_translate("MainWindow", "Activate"))
         self.b2.setText(_translate("MainWindow", "Cancel an already scheduled shutdown"))
